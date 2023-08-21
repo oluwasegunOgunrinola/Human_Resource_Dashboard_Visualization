@@ -7,7 +7,7 @@ This Human Resource Dashboard focuses on employee turnover rates over a specific
 
 After data analysis and visualization have been done, there are 1470 Total employees, of which 1233 are active; this gives an Attrition Count of 237 and an Attrition Rate of 16.12%. This rate implies that 16 out of every 100 employees have left the organization. 
 
-Also, significantly high attrition counts were observed in the HR department (56.12%), among staff with a bachelor's degree educational qualification (41.77%), and also in the age group 25–34 (47.25%), which definitely draws the attention of the organization to these cohorts.
+Also, significantly high attrition rate were observed in the R&D department (56.12%), among staff with a bachelor's degree educational qualification (41.77%), and also in the age group 25–34 (47.25%), which definitely draws the attention of the organization to these cohorts.
 
 Knowing that some sectors have lower or higher attrition rates, e.g., insurance >15%, oil & gas <15%, technology > 20%, etc., an attrition rate of 10-15% would allow for the continuous evolution of skills and capability and the departure of those not performing within the organization. Some common causes of staff attrition include personal reasons, career promotion, redundancy, termination, relocation, etc.
 
