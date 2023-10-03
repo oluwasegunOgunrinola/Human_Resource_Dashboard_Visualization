@@ -5,6 +5,8 @@ Each objective on every Human Resource’s strategic plan should have associated
 
 This Human Resource Dashboard focuses on employee turnover rates over a specific period. The upper section highlights the KPIs, including attrition rate, attrition count, and active employees. Below it are metrics related to department, age group, gender, job satisfaction rate, etc., giving an entire vision of the different areas within HR.
 
+![](./HR_header).
+
 After data analysis and visualization have been done, there are 1470 Total employees, of which 1233 are active; this gives an Attrition Count of 237 and an Attrition Rate of 16.12%. This rate implies that 16 out of every 100 employees have left the organization. 
 
 Also, significantly high attrition rate were observed in the R&D department (56.12%), among staff with a bachelor's degree educational qualification (41.77%), and also in the age group 25–34 (47.25%), which definitely draws the attention of the organization to these cohorts.
