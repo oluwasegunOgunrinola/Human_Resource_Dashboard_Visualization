@@ -16,3 +16,5 @@ Knowing that some sectors have lower or higher attrition rates, e.g., insurance 
 However, a high attrition rate can present some challenges to an organization, which can lead to more stress in the workplace. In addition, engaged and productive employees are the key to any successful business, so when an employee leaves the company, it can have damaging effects on productivity and profits.
 
 Therefore, a better understanding of the underlying themes behind the attrition rate calculations can ensure you are well prepared to manage challenges for any employees who may leave in the future.
+
+#Download pdf. and pbix. file for the detailed and comprehensive report
