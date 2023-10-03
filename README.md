@@ -17,4 +17,4 @@ However, a high attrition rate can present some challenges to an organization, w
 
 Therefore, a better understanding of the underlying themes behind the attrition rate calculations can ensure you are well prepared to manage challenges for any employees who may leave in the future.
 
-#Download pdf. and pbix. file for the detailed and comprehensive report
+# Download pdf. and pbix. file for the detailed and comprehensive report
